@@ -1,0 +1,15 @@
+/home/jaevs/studiemappe/oop-opgaver/opgaver-kap-6/6.3.6/bin/Debug/net8.0/6.3.6
+/home/jaevs/studiemappe/oop-opgaver/opgaver-kap-6/6.3.6/bin/Debug/net8.0/6.3.6.deps.json
+/home/jaevs/studiemappe/oop-opgaver/opgaver-kap-6/6.3.6/bin/Debug/net8.0/6.3.6.runtimeconfig.json
+/home/jaevs/studiemappe/oop-opgaver/opgaver-kap-6/6.3.6/bin/Debug/net8.0/6.3.6.dll
+/home/jaevs/studiemappe/oop-opgaver/opgaver-kap-6/6.3.6/bin/Debug/net8.0/6.3.6.pdb
+/home/jaevs/studiemappe/oop-opgaver/opgaver-kap-6/6.3.6/obj/Debug/net8.0/6.3.6.GeneratedMSBuildEditorConfig.editorconfig
+/home/jaevs/studiemappe/oop-opgaver/opgaver-kap-6/6.3.6/obj/Debug/net8.0/6.3.6.AssemblyInfoInputs.cache
+/home/jaevs/studiemappe/oop-opgaver/opgaver-kap-6/6.3.6/obj/Debug/net8.0/6.3.6.AssemblyInfo.cs
+/home/jaevs/studiemappe/oop-opgaver/opgaver-kap-6/6.3.6/obj/Debug/net8.0/6.3.6.csproj.CoreCompileInputs.cache
+/home/jaevs/studiemappe/oop-opgaver/opgaver-kap-6/6.3.6/obj/Debug/net8.0/6.3.6.sourcelink.json
+/home/jaevs/studiemappe/oop-opgaver/opgaver-kap-6/6.3.6/obj/Debug/net8.0/6.3.6.dll
+/home/jaevs/studiemappe/oop-opgaver/opgaver-kap-6/6.3.6/obj/Debug/net8.0/refint/6.3.6.dll
+/home/jaevs/studiemappe/oop-opgaver/opgaver-kap-6/6.3.6/obj/Debug/net8.0/6.3.6.pdb
+/home/jaevs/studiemappe/oop-opgaver/opgaver-kap-6/6.3.6/obj/Debug/net8.0/6.3.6.genruntimeconfig.cache
+/home/jaevs/studiemappe/oop-opgaver/opgaver-kap-6/6.3.6/obj/Debug/net8.0/ref/6.3.6.dll
