@@ -1,0 +1,15 @@
+/home/jeppe-dp/OOP-opgaver/opgaver-kap-7/7.6.12/bin/Debug/net8.0/7.6.12
+/home/jeppe-dp/OOP-opgaver/opgaver-kap-7/7.6.12/bin/Debug/net8.0/7.6.12.deps.json
+/home/jeppe-dp/OOP-opgaver/opgaver-kap-7/7.6.12/bin/Debug/net8.0/7.6.12.runtimeconfig.json
+/home/jeppe-dp/OOP-opgaver/opgaver-kap-7/7.6.12/bin/Debug/net8.0/7.6.12.dll
+/home/jeppe-dp/OOP-opgaver/opgaver-kap-7/7.6.12/bin/Debug/net8.0/7.6.12.pdb
+/home/jeppe-dp/OOP-opgaver/opgaver-kap-7/7.6.12/obj/Debug/net8.0/7.6.12.GeneratedMSBuildEditorConfig.editorconfig
+/home/jeppe-dp/OOP-opgaver/opgaver-kap-7/7.6.12/obj/Debug/net8.0/7.6.12.AssemblyInfoInputs.cache
+/home/jeppe-dp/OOP-opgaver/opgaver-kap-7/7.6.12/obj/Debug/net8.0/7.6.12.AssemblyInfo.cs
+/home/jeppe-dp/OOP-opgaver/opgaver-kap-7/7.6.12/obj/Debug/net8.0/7.6.12.csproj.CoreCompileInputs.cache
+/home/jeppe-dp/OOP-opgaver/opgaver-kap-7/7.6.12/obj/Debug/net8.0/7.6.12.sourcelink.json
+/home/jeppe-dp/OOP-opgaver/opgaver-kap-7/7.6.12/obj/Debug/net8.0/7.6.12.dll
+/home/jeppe-dp/OOP-opgaver/opgaver-kap-7/7.6.12/obj/Debug/net8.0/refint/7.6.12.dll
+/home/jeppe-dp/OOP-opgaver/opgaver-kap-7/7.6.12/obj/Debug/net8.0/7.6.12.pdb
+/home/jeppe-dp/OOP-opgaver/opgaver-kap-7/7.6.12/obj/Debug/net8.0/7.6.12.genruntimeconfig.cache
+/home/jeppe-dp/OOP-opgaver/opgaver-kap-7/7.6.12/obj/Debug/net8.0/ref/7.6.12.dll
