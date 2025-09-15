@@ -12,7 +12,5 @@ for (int i = 2000; i < 2021; i++){
     else {
         pointer = days_in_month;
     }
-    foreach (int day in pointer){
-    Console.WriteLine(day);
-    }
+    Console.WriteLine(string.Join(" ", pointer));
 }

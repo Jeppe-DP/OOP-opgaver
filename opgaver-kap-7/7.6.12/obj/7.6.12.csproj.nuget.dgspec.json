@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/jeppe-dp/OOP-opgaver/opgaver-kap-7/7.6.12/7.6.12.csproj": {}
+    "/home/jaevs/studiemappe/oop-opgaver/opgaver-kap-7/7.6.12/7.6.12.csproj": {}
   },
   "projects": {
-    "/home/jeppe-dp/OOP-opgaver/opgaver-kap-7/7.6.12/7.6.12.csproj": {
+    "/home/jaevs/studiemappe/oop-opgaver/opgaver-kap-7/7.6.12/7.6.12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jeppe-dp/OOP-opgaver/opgaver-kap-7/7.6.12/7.6.12.csproj",
+        "projectUniqueName": "/home/jaevs/studiemappe/oop-opgaver/opgaver-kap-7/7.6.12/7.6.12.csproj",
         "projectName": "7.6.12",
-        "projectPath": "/home/jeppe-dp/OOP-opgaver/opgaver-kap-7/7.6.12/7.6.12.csproj",
-        "packagesPath": "/home/jeppe-dp/.nuget/packages/",
-        "outputPath": "/home/jeppe-dp/OOP-opgaver/opgaver-kap-7/7.6.12/obj/",
+        "projectPath": "/home/jaevs/studiemappe/oop-opgaver/opgaver-kap-7/7.6.12/7.6.12.csproj",
+        "packagesPath": "/home/jaevs/.nuget/packages/",
+        "outputPath": "/home/jaevs/studiemappe/oop-opgaver/opgaver-kap-7/7.6.12/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/jeppe-dp/.nuget/NuGet/NuGet.Config"
+          "/home/jaevs/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
