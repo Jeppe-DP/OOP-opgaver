@@ -1,0 +1,15 @@
+/home/jeppe-dp/OOP-opgaver/opgaver-kap-15/15.1.1/bin/Debug/net8.0/15.1.1
+/home/jeppe-dp/OOP-opgaver/opgaver-kap-15/15.1.1/bin/Debug/net8.0/15.1.1.deps.json
+/home/jeppe-dp/OOP-opgaver/opgaver-kap-15/15.1.1/bin/Debug/net8.0/15.1.1.runtimeconfig.json
+/home/jeppe-dp/OOP-opgaver/opgaver-kap-15/15.1.1/bin/Debug/net8.0/15.1.1.dll
+/home/jeppe-dp/OOP-opgaver/opgaver-kap-15/15.1.1/bin/Debug/net8.0/15.1.1.pdb
+/home/jeppe-dp/OOP-opgaver/opgaver-kap-15/15.1.1/obj/Debug/net8.0/15.1.1.GeneratedMSBuildEditorConfig.editorconfig
+/home/jeppe-dp/OOP-opgaver/opgaver-kap-15/15.1.1/obj/Debug/net8.0/15.1.1.AssemblyInfoInputs.cache
+/home/jeppe-dp/OOP-opgaver/opgaver-kap-15/15.1.1/obj/Debug/net8.0/15.1.1.AssemblyInfo.cs
+/home/jeppe-dp/OOP-opgaver/opgaver-kap-15/15.1.1/obj/Debug/net8.0/15.1.1.csproj.CoreCompileInputs.cache
+/home/jeppe-dp/OOP-opgaver/opgaver-kap-15/15.1.1/obj/Debug/net8.0/15.1.1.sourcelink.json
+/home/jeppe-dp/OOP-opgaver/opgaver-kap-15/15.1.1/obj/Debug/net8.0/15.1.1.dll
+/home/jeppe-dp/OOP-opgaver/opgaver-kap-15/15.1.1/obj/Debug/net8.0/refint/15.1.1.dll
+/home/jeppe-dp/OOP-opgaver/opgaver-kap-15/15.1.1/obj/Debug/net8.0/15.1.1.pdb
+/home/jeppe-dp/OOP-opgaver/opgaver-kap-15/15.1.1/obj/Debug/net8.0/15.1.1.genruntimeconfig.cache
+/home/jeppe-dp/OOP-opgaver/opgaver-kap-15/15.1.1/obj/Debug/net8.0/ref/15.1.1.dll
